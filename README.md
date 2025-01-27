@@ -129,12 +129,3 @@ For questions or feedback, feel free to reach out:
 - GitHub: [raviraj-441](https://github.com/raviraj-441)
 
 ---
-
-### **How to Use**
-1. Replace placeholders (e.g., `your-username`, `your-repo-name`, `your-streamlit-app-link`) with your actual details.
-2. Save the content as `README.md` in your project directory.
-3. Push to GitHub:
-   ```bash
-   git add README.md
-   git commit -m "Add project documentation"
-   git push origin main
