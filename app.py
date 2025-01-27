@@ -1,4 +1,4 @@
-from dotenv import load_dotenv
+#from dotenv import load_dotenv(Uncomment this if using .env file)
 import os
 import streamlit as st
 from openai import OpenAI
