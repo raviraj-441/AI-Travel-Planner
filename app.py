@@ -40,7 +40,7 @@ Create a detailed {duration}-day itinerary for {destination}:
 load_dotenv()
 
 # Initialize OpenAI client
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY") or st.secrets["OPENAI_API_KEY"])
 
 # Initialize session state
 if 'travel_data' not in st.session_state:
