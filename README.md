@@ -25,7 +25,7 @@ Welcome to the **AI Travel Planner**, an AI-powered application that generates p
 
 ## 🖥️ Live Demo
 
-Try the app live: [AI Travel Planner on Streamlit](https://your-streamlit-app-link.streamlit.app)
+Try the app live: [AI Travel Planner on Streamlit](https://ai-travel-planner-01.streamlit.app/)
 
 ---
 
